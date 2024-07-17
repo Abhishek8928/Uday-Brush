@@ -1,0 +1,37 @@
+.adress-contact {
+  flex: 1;
+  width: 210px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.adress-text {
+  font-family: "Neue Montreal Medium";
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.adress-text1 {
+  font-family: "Neue Montreal";
+  margin-bottom: var(--dl-space-space-unit);
+}
+.adress-text5 {
+  font-family: "Neue Montreal";
+}
+@media(max-width: 991px) {
+  .adress-contact {
+    flex: 1;
+  }
+}
+@media(max-width: 767px) {
+  .adress-contact {
+    margin-right: var(--dl-space-space-triplequarter);
+  }
+}
+@media(max-width: 479px) {
+  .adress-contact {
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

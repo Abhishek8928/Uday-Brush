@@ -1,0 +1,1294 @@
+.component10-container {
+  flex: 0 0 auto;
+  width: 572px;
+  height: 582px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: center;
+}
+.component10-text {
+  color: rgb(84, 84, 84);
+  font-size: 1em;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: "Neue Montreal";
+}
+.component10-text1 {
+  width: 383px;
+  font-size: 1.7em;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: "Neue Montreal";
+}
+.component10-text2 {
+  color: #444444;
+  font-size: 17px;
+  margin-top: var(--dl-space-space-unit);
+  font-family: "Neue Montreal";
+}
+.component10-accordion {
+  width: 553px;
+  height: 258px;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.component10-element {
+  width: 529px;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(92, 92, 92, 0.2);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.component10-content {
+  position: relative;
+}
+.component10-header {
+  color: rgb(67, 67, 67);
+  font-size: 17px;
+  font-style: normal;
+  font-family: "Neue Montreal";
+  font-weight: 500;
+}
+.component10-element1 {
+  width: 529px;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(105, 105, 105, 0.2);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.component10-header1 {
+  color: rgb(63, 63, 63);
+  font-size: 17px;
+  font-style: normal;
+  font-family: "Neue Montreal";
+  font-weight: 500;
+}
+.component10-element2 {
+  width: 529px;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(105, 105, 105, 0.2);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.component10-header2 {
+  color: rgb(63, 63, 63);
+  font-family: "Neue Montreal";
+}
+.component10-container2 {
+  display: contents;
+}
+.component10-root-class-name {
+  flex: 1;
+  align-self: center;
+}
+
+.component10-root-class-name2 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name3 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name4 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name5 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name6 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name7 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name8 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name9 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name10 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name11 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name12 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name13 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name14 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name15 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name16 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name17 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name18 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name19 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name21 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name22 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name23 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name24 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name25 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name26 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name27 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name28 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name29 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name30 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name31 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name32 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name33 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name34 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name35 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name36 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name37 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name38 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name39 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name40 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name41 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name42 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name43 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name44 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name45 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name46 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name47 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name48 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name49 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name50 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name51 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name52 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name53 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name54 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name55 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name56 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name57 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name59 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name60 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name61 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name62 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name63 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name64 {
+  flex: 1;
+  align-self: center;
+}
+.component10-root-class-name65 {
+  flex: 1;
+  align-self: center;
+}
+@media(max-width: 991px) {
+  .component10-container {
+    width: 866px;
+    height: 548px;
+  }
+  .component10-header {
+    font-size: 24px;
+  }
+  .component10-header1 {
+    font-size: 24px;
+  }
+  .component10-header2 {
+    font-size: 24px;
+  }
+  .component10-text3 {
+    font-size: 24px;
+  }
+  .component10-root-class-name {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name2 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name3 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name4 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name5 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name6 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name7 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name8 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name9 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name10 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name11 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name12 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name13 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name14 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name15 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name16 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name17 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name18 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name19 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name21 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name22 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name23 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name24 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name25 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name26 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name27 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name28 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name29 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name30 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name31 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name32 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name33 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name34 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name35 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name36 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name37 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name38 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name39 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name40 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name41 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name42 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name43 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name44 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name45 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name46 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name47 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name48 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name49 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name50 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name51 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name52 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name53 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name54 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name55 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name56 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name57 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name59 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name60 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name61 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name62 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name63 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name64 {
+    flex: 1;
+    margin-left: 0px;
+  }
+  .component10-root-class-name65 {
+    flex: 1;
+    margin-left: 0px;
+  }
+}
+@media(max-width: 767px) {
+  .component10-container {
+    width: 557px;
+    height: 486px;
+  }
+  .component10-root-class-name {
+    margin-left: 0px;
+  }
+  .component10-root-class-name1 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name2 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name3 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name4 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name5 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name6 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name7 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name8 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name9 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name10 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name11 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name12 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name13 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name14 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name15 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name16 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name17 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name18 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name19 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name21 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name22 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name23 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name24 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name25 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name26 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name27 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name28 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name29 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name30 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name31 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name32 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name33 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name34 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name35 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name36 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name37 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name38 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name39 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name40 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name41 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name42 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name43 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name44 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name45 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name46 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name47 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name48 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name49 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name50 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name51 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name52 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name53 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name54 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name55 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name56 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name57 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name59 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name60 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name61 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name62 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name63 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name64 {
+    margin-left: 0px;
+  }
+  .component10-root-class-name65 {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .component10-container {
+    width: 333px;
+    height: 489px;
+  }
+  .component10-text {
+    align-self: stretch;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .component10-text1 {
+    width: 331px;
+    font-size: 1.3em;
+    align-self: stretch;
+  }
+  .component10-text2 {
+    align-self: stretch;
+    margin-top: var(--dl-space-space-halfunit);
+  }
+  .component10-accordion {
+    width: 100%;
+  }
+  .component10-element {
+    width: 100%;
+    align-self: stretch;
+  }
+  .component10-header {
+    font-size: 17px;
+  }
+  .component10-element1 {
+    width: 100%;
+    align-self: stretch;
+  }
+  .component10-header1 {
+    font-size: 17px;
+  }
+  .component10-element2 {
+    width: 100%;
+    align-self: stretch;
+  }
+  .component10-header2 {
+    font-size: 17px;
+  }
+  .component10-text3 {
+    font-size: 17px;
+  }
+  .component10-root-class-name {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name1 {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    margin-left: 0px;
+  }
+  .component10-root-class-name2 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name3 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name4 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name5 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name6 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name7 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name8 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name9 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name10 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name11 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name12 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name13 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name14 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name15 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name16 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name17 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name18 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name19 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name21 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name22 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name23 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name24 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name25 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name26 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name27 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name28 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name29 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name30 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name31 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name32 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name33 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name34 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name35 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name36 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name37 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name38 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name39 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name40 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name41 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name42 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name43 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name44 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name45 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name46 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name47 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name48 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name49 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name50 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name51 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name52 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name53 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name54 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name55 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name56 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name57 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name59 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name60 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name61 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name62 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name63 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name64 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .component10-root-class-name65 {
+    flex: 0;
+    width: auto;
+    align-self: stretch;
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+}

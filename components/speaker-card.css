@@ -1,0 +1,153 @@
+.speaker-card-speaker-card {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.speaker-card-image-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 255px;
+  min-height: 255px;
+  transition: 0.3s;
+  align-items: flex-end;
+  border-radius: 12px;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #f2f3eb;
+}
+
+.speaker-card-image {
+  height: 304px;
+  align-self: stretch;
+  object-fit: cover;
+  transition: 0.3s;
+  border-radius: Radius12;
+}
+.speaker-card-image:hover {
+  width: 241px;
+  height: 304px;
+  align-self: center;
+}
+.speaker-card-last-name {
+  color: #606060;
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Neue Montreal";
+  font-weight: 400;
+  line-height: 1.1;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.speaker-card-first-name {
+  color: #252525;
+  font-size: 22px;
+  font-family: "Neue Montreal";
+  line-height: 1.1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 767px) {
+  .speaker-card-root-class-name {
+    display: flex;
+  }
+  .speaker-card-root-class-name1 {
+    display: flex;
+  }
+  .speaker-card-root-class-name2 {
+    display: flex;
+  }
+  .speaker-card-root-class-name3 {
+    display: flex;
+  }
+  .speaker-card-root-class-name4 {
+    display: flex;
+  }
+  .speaker-card-root-class-name5 {
+    display: flex;
+  }
+  .speaker-card-root-class-name6 {
+    display: flex;
+  }
+  .speaker-card-root-class-name7 {
+    display: flex;
+  }
+  .speaker-card-root-class-name8 {
+    display: flex;
+  }
+  .speaker-card-root-class-name9 {
+    display: flex;
+  }
+  .speaker-card-root-class-name10 {
+    display: flex;
+  }
+  .speaker-card-root-class-name11 {
+    display: flex;
+  }
+  .speaker-card-root-class-name12 {
+    display: flex;
+  }
+  .speaker-card-root-class-name13 {
+    display: flex;
+  }
+  .speaker-card-root-class-name14 {
+    display: flex;
+  }
+  .speaker-card-root-class-name15 {
+    display: flex;
+  }
+  .speaker-card-root-class-name16 {
+    display: flex;
+  }
+  .speaker-card-root-class-name23 {
+    display: flex;
+  }
+  .speaker-card-root-class-name37 {
+    display: flex;
+  }
+  .speaker-card-root-class-name51 {
+    display: flex;
+  }
+  .speaker-card-root-class-name52 {
+    display: flex;
+  }
+  .speaker-card-root-class-name53 {
+    display: flex;
+  }
+  .speaker-card-root-class-name54 {
+    display: flex;
+  }
+  .speaker-card-root-class-name58 {
+    display: flex;
+  }
+}
+@media(max-width: 479px) {
+  .speaker-card-image {
+    height: 277px;
+    align-self: stretch;
+  }
+}

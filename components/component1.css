@@ -1,0 +1,139 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-form {
+  width: 888px;
+  height: 440px;
+  display: flex;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: center;
+  border-radius: 20px;
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.component1-features-heading {
+  color: rgb(41, 41, 41);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  font-family: "Neue Montreal";
+  line-height: 1.6;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.component1-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component1-textinput {
+  color: #000000;
+  width: 220px;
+  margin-top: 0px;
+  font-family: "Neue Montreal";
+  margin-left: 0px;
+  border-color: #6b6b6b;
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: 0px;
+}
+.component1-textinput1 {
+  width: 220px;
+  font-family: "Neue Montreal";
+  margin-left: 0px;
+  border-color: #6b6b6b;
+  margin-right: 0px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.component1-textinput2 {
+  width: 459px;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: "Neue Montreal";
+  border-color: #6b6b6b;
+}
+.component1-container2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component1-textarea {
+  width: 456px;
+  height: 149px;
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: "Neue Montreal";
+  border-color: #6b6b6b;
+}
+.component1-button {
+  width: 106px;
+  height: 38px;
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  border-color: #6b6b6b;
+}
+@media(max-width: 991px) {
+  .component1-form {
+    height: 466px;
+  }
+}
+@media(max-width: 767px) {
+  .component1-form {
+    height: 429px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+    margin-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .component1-textinput {
+    margin-right: var(--dl-space-space-halfunit);
+  }
+  .component1-textinput1 {
+    margin-left: var(--dl-space-space-halfunit);
+  }
+}
+@media(max-width: 479px) {
+  .component1-form {
+    width: 337px;
+    height: 436px;
+    margin: var(--dl-space-space-halfunit);
+    border-radius: 0px;
+  }
+  .component1-features-heading {
+    text-align: center;
+  }
+  .component1-container1 {
+    width: 100%;
+  }
+  .component1-textinput {
+    width: 170px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .component1-textinput1 {
+    width: 130px;
+    height: 37px;
+    padding-top: 0.5px;
+    margin-right: var(--dl-space-space-oneandhalfunits);
+    padding-right: 0px;
+    padding-bottom: 0.5px;
+  }
+  .component1-textinput2 {
+    width: 314px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+    margin-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .component1-container2 {
+    width: 314px;
+  }
+  .component1-textarea {
+    width: 316px;
+    height: 181px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+    margin-right: var(--dl-space-space-oneandhalfunits);
+    padding-left: var(--dl-space-space-halfunit);
+  }
+  .component1-button {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

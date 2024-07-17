@@ -1,0 +1,126 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-form {
+  width: 100%;
+  height: 419px;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.app-component-features-heading {
+  color: rgb(41, 41, 41);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  font-family: "Neue Montreal";
+  line-height: 1.6;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.app-component-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.app-component-textinput {
+  color: #000000;
+  width: 220px;
+  margin-top: 0px;
+  font-family: "Neue Montreal";
+  margin-left: 0px;
+  border-color: #6b6b6b;
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: 0px;
+}
+.app-component-textinput1 {
+  width: 220px;
+  font-family: "Neue Montreal";
+  margin-left: 0px;
+  border-color: #6b6b6b;
+  margin-right: 0px;
+}
+.app-component-textinput2 {
+  width: 459px;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: "Neue Montreal";
+  border-color: #6b6b6b;
+}
+.app-component-container2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.app-component-textarea {
+  width: 456px;
+  height: 149px;
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: "Neue Montreal";
+  border-color: #6b6b6b;
+}
+.app-component-button {
+  width: 106px;
+  height: 38px;
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  border-color: #6b6b6b;
+}
+@media(max-width: 991px) {
+  .app-component-form {
+    height: 466px;
+  }
+}
+@media(max-width: 767px) {
+  .app-component-form {
+    height: 429px;
+  }
+  .app-component-textinput {
+    margin-right: var(--dl-space-space-halfunit);
+  }
+  .app-component-textinput1 {
+    margin-left: var(--dl-space-space-halfunit);
+  }
+}
+@media(max-width: 479px) {
+  .app-component-form {
+    width: 415px;
+    height: 399px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .app-component-features-heading {
+    text-align: center;
+  }
+  .app-component-textinput {
+    width: 170px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .app-component-textinput1 {
+    width: 101px;
+    height: 37px;
+    padding-top: 0.5px;
+    margin-right: var(--dl-space-space-oneandhalfunits);
+    padding-right: 0px;
+    padding-bottom: 0.5px;
+  }
+  .app-component-textinput2 {
+    width: 285px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+    margin-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .app-component-textarea {
+    width: 284px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+    margin-right: var(--dl-space-space-oneandhalfunits);
+    padding-left: var(--dl-space-space-halfunit);
+  }
+  .app-component-button {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}

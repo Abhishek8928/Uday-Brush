@@ -1,0 +1,29 @@
+.component7-container {
+  width: 357px;
+  height: 437px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.component7-container1 {
+  width: 359px;
+  height: 539px;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  border-radius: 12px;
+  margin-bottom: var(--dl-space-space-unit);
+  justify-content: center;
+  background-color: #f2f3eb;
+}
+.component7-image {
+  width: 288px;
+  height: 334px;
+  object-fit: cover;
+}
+.component7-text {
+  font-size: 1.2em;
+  font-family: "Neue Montreal";
+}

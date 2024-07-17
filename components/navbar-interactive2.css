@@ -1,0 +1,191 @@
+.navbar-interactive2-container {
+  display: flex;
+  position: relative;
+}
+.navbar-interactive2-navbar-interactive {
+  width: 1440px;
+  height: 84px;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.navbar-interactive2-image {
+  width: 108px;
+  height: 65px;
+}
+.navbar-interactive2-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar-interactive2-links {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.navbar-interactive2-navlink {
+  font-size: 20px;
+  font-family: "Neue Montreal";
+  text-decoration: none;
+}
+.navbar-interactive2-navlink1 {
+  font-size: 20px;
+  font-family: "Neue Montreal";
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navbar-interactive2-text {
+  font-size: 20px;
+  font-family: "Neue Montreal";
+  margin-left: var(--dl-space-space-twounits);
+}
+.navbar-interactive2-text1 {
+  font-size: 20px;
+  font-family: "Neue Montreal";
+  margin-left: var(--dl-space-space-twounits);
+}
+.navbar-interactive2-burger-menu {
+  display: none;
+}
+.navbar-interactive2-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.navbar-interactive2-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.navbar-interactive2-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.navbar-interactive2-top {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.navbar-interactive2-logo {
+  height: 2rem;
+}
+.navbar-interactive2-close-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar-interactive2-icon02 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.navbar-interactive2-links1 {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.navbar-interactive2-text2 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.navbar-interactive2-text3 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.navbar-interactive2-text4 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.navbar-interactive2-text5 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.navbar-interactive2-text6 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.navbar-interactive2-buttons {
+  display: flex;
+  margin-top: var(--dl-space-space-unit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navbar-interactive2-login {
+  margin-right: var(--dl-space-space-twounits);
+}
+.navbar-interactive2-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.navbar-interactive2-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.navbar-interactive2-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+@media(max-width: 991px) {
+  .navbar-interactive2-navbar-interactive {
+    width: 991px;
+  }
+}
+@media(max-width: 767px) {
+  .navbar-interactive2-navbar-interactive {
+    width: 767px;
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .navbar-interactive2-desktop-menu {
+    display: none;
+  }
+  .navbar-interactive2-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navbar-interactive2-text2 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-interactive2-text3 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-interactive2-text4 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-interactive2-text5 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-interactive2-text6 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
+@media(max-width: 479px) {
+  .navbar-interactive2-navbar-interactive {
+    width: 479px;
+    padding: var(--dl-space-space-unit);
+    justify-content: space-between;
+  }
+  .navbar-interactive2-mobile-menu {
+    padding: 16px;
+  }
+}

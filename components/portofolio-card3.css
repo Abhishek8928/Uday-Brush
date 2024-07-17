@@ -1,0 +1,52 @@
+.portofolio-card3-speaker-card {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.portofolio-card3-image-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  min-width: 300px;
+  max-height: 313px;
+  min-height: 313px;
+  align-items: flex-end;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.portofolio-card3-image {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.portofolio-card3-first-name {
+  color: #252525;
+  font-size: 18px;
+  font-family: "Neue Montreal";
+  line-height: 23px;
+}
+
+
+
+@media(max-width: 479px) {
+  .portofolio-card3-speaker-card {
+    width: 284px;
+    height: 355px;
+  }
+  .portofolio-card3-image-container {
+    width: 100%;
+    min-width: var(--dl-size-size-medium);
+  }
+  .portofolio-card3-image {
+    width: 281px;
+    height: 317px;
+    min-width: var(--dl-size-size-medium);
+  }
+}

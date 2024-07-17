@@ -1,0 +1,28 @@
+.component611-container {
+  flex: 0 0 auto;
+  width: 374px;
+  height: 456px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component611-container1 {
+  width: 100%;
+  height: 373px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: var(--dl-space-space-unit);
+  justify-content: center;
+  background-color: #ffffff;
+}
+.component611-image {
+  width: 263px;
+  height: 313px;
+  object-fit: cover;
+}
+.component611-text {
+  font-size: 1.2em;
+  font-family: "Neue Montreal";
+}

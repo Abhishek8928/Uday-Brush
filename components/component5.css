@@ -1,0 +1,17 @@
+.component5-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component5-image {
+  width: 300px;
+  object-fit: cover;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.component5-text {
+  font-size: 1.4em;
+  text-align: left;
+  font-family: "Neue Montreal";
+}

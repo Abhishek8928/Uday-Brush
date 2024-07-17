@@ -1,0 +1,200 @@
+.contact-form6-contact1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f2f3eb;
+}
+.contact-form6-max-width {
+  justify-content: center;
+}
+.contact-form6-form {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 60%;
+}
+.contact-form6-container {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.contact-form6-input {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-form6-text {
+  font-family: "Neue Montreal";
+}
+.contact-form6-text-input {
+  align-self: stretch;
+  text-align: left;
+  border-color: #696969;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.contact-form6-input1 {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-form6-text1 {
+  font-family: "Neue Montreal";
+}
+.contact-form6-text-input1 {
+  border-color: #696969;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.contact-form6-container1 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.contact-form6-input2 {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-form6-text2 {
+  font-family: "Neue Montreal";
+}
+.contact-form6-text-input2 {
+  border-color: #696969;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.contact-form6-input3 {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-form6-text3 {
+  font-family: "Neue Montreal";
+}
+.contact-form6-text-input3 {
+  border-color: #696969;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.contact-form6-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-form6-input4 {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-form6-text4 {
+  font-family: "Neue Montreal";
+}
+.contact-form6-textarea {
+  align-self: stretch;
+  text-align: left;
+  font-family: "Neue Montreal";
+  border-color: #696969;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.contact-form6-checkbox {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+}
+.contact-form6-text5 {
+  font-family: "Neue Montreal";
+}
+.contact-form6-button {
+  align-self: flex-start;
+  border-width: 0px;
+  background-color: #4565ff;
+}
+.contact-form6-action1 {
+  font-family: "Neue Montreal Medium";
+}
+@media(max-width: 991px) {
+  .contact-form6-max-width {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .contact-form6-form {
+    width: 100%;
+  }
+  .contact-form6-container {
+    gap: var(--dl-space-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form6-input {
+    width: 50%;
+  }
+  .contact-form6-input1 {
+    width: 50%;
+    flex-direction: column;
+  }
+  .contact-form6-container1 {
+    gap: var(--dl-space-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form6-input2 {
+    width: 50%;
+  }
+  .contact-form6-input3 {
+    width: 50%;
+  }
+  .contact-form6-container2 {
+    gap: var(--dl-space-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form6-checkbox {
+    align-self: flex-start;
+  }
+}
+@media(max-width: 479px) {
+  .contact-form6-form {
+    padding: var(--dl-space-space-unit);
+  }
+  .contact-form6-container {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contact-form6-input {
+    width: 100%;
+  }
+  .contact-form6-input1 {
+    width: 100%;
+  }
+  .contact-form6-container1 {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contact-form6-input2 {
+    width: 100%;
+  }
+  .contact-form6-input3 {
+    width: 100%;
+  }
+}

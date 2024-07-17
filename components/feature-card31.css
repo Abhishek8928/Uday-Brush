@@ -1,0 +1,74 @@
+.feature-card31-feature-card {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  position: relative;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-white);
+}
+.feature-card31-icon {
+  fill: var(--dl-color-primary1-blue80);
+  width: 2rem;
+  height: 2rem;
+  flex-shrink: 0;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.feature-card31-container {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.feature-card31-text {
+  color: #353535;
+  font-size: 1.5rem;
+  font-family: "Neue Montreal";
+  font-weight: 600;
+  line-height: 28px;
+}
+.feature-card31-text1 {
+  color: var(--dl-color-gray-800);
+  font-family: "Neue Montreal";
+  line-height: 1.6;
+}
+.feature-card31-root-class-name {
+  background-color: #f2f3eb;
+}
+.feature-card31-root-class-name1 {
+  background-color: #f2f3eb;
+}
+.feature-card31-root-class-name2 {
+  background-color: #f2f3eb;
+}
+.feature-card31-root-class-name3 {
+  background-color: #f2f3eb;
+}
+.feature-card31-root-class-name4 {
+  background-color: #f2f3eb;
+}
+.feature-card31-root-class-name5 {
+  background-color: #f2f3eb;
+}
+.feature-card31-root-class-name6 {
+  background-color: #f2f3eb;
+}
+.feature-card31-root-class-name7 {
+  background-color: #f2f3eb;
+}
+@media(max-width: 767px) {
+  .feature-card31-feature-card {
+    flex-direction: row;
+  }
+  .feature-card31-container {
+    flex-direction: column;
+  }
+}
+@media(max-width: 479px) {
+  .feature-card31-container {
+    flex-direction: column;
+  }
+}

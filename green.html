@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="english">
+  <head>
+    <title>Green - exported project</title>
+    <meta property="og:title" content="Green - exported project" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+        fill: var(--dl-color-gray-black);
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital,wght@0,400;1,400&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+  </head>
+  <body>
+    <link rel="stylesheet" href="./style.css" />
+    <div>
+      <link href="./green.css" rel="stylesheet" />
+
+      <div class="green-container">
+        <div
+          class="navbar-interactive1-container navbar-interactive1-root-class-name44"
+        ></div>
+        <div
+          class="navbar-interactive1111-container navbar-interactive1111-root-class-name229"
+        >
+          <header
+            data-thq="thq-navbar"
+            class="navbar-interactive1111-navbar-interactive"
+          >
+            <img
+              alt="logo"
+              src="https://play.teleporthq.io/static/svg/default-img.svg"
+              class="navbar-interactive1111-image"
+            />
+            <div
+              data-thq="thq-navbar-nav"
+              class="navbar-interactive1111-desktop-menu"
+            >
+              <nav class="navbar-interactive1111-links">
+                <a href="index.html" class="navbar-interactive1111-navlink">
+                  <p class="navbar-interactive1111-text"><span>Home</span></p>
+                </a>
+                <a href="about.html" class="navbar-interactive1111-navlink1">
+                  <p class="navbar-interactive1111-text1"><span>About</span></p>
+                </a>
+                <div
+                  data-thq="thq-dropdown"
+                  class="navbar-interactive1111-thq-dropdown list-item"
+                >
+                  <ul
+                    data-thq="thq-dropdown-list"
+                    class="navbar-interactive1111-dropdown-list"
+                  >
+                    <li
+                      data-thq="thq-dropdown"
+                      class="navbar-interactive1111-dropdown list-item"
+                    >
+                      <div
+                        data-thq="thq-dropdown-toggle"
+                        class="navbar-interactive1111-dropdown-toggle"
+                      >
+                        <span class="navbar-interactive1111-text2">
+                          Destructive Testing
+                        </span>
+                      </div>
+                    </li>
+                    <li
+                      data-thq="thq-dropdown"
+                      class="navbar-interactive1111-dropdown1 list-item"
+                    >
+                      <div
+                        data-thq="thq-dropdown-toggle"
+                        class="navbar-interactive1111-dropdown-toggle1"
+                      >
+                        <span class="navbar-interactive1111-text3">
+                          Non - Destructive Testing
+                        </span>
+                      </div>
+                    </li>
+                    <li
+                      data-thq="thq-dropdown"
+                      class="navbar-interactive1111-dropdown2 list-item"
+                    >
+                      <div
+                        data-thq="thq-dropdown-toggle"
+                        class="navbar-interactive1111-dropdown-toggle2"
+                      >
+                        <span class="navbar-interactive1111-text4">
+                          Plant Health Assessment
+                        </span>
+                      </div>
+                      <div
+                        data-thq="thq-dropdown-toggle"
+                        class="navbar-interactive1111-dropdown-toggle3"
+                      >
+                        <span class="navbar-interactive1111-text5">
+                          In-situ Technology
+                        </span>
+                      </div>
+                      <div
+                        data-thq="thq-dropdown-toggle"
+                        class="navbar-interactive1111-dropdown-toggle4"
+                      >
+                        <span class="navbar-interactive1111-text6">
+                          Other services
+                        </span>
+                      </div>
+                    </li>
+                    <li
+                      data-thq="thq-dropdown"
+                      class="navbar-interactive1111-dropdown3 list-item"
+                    ></li>
+                    <li
+                      data-thq="thq-dropdown"
+                      class="navbar-interactive1111-dropdown4 list-item"
+                    ></li>
+                  </ul>
+                </div>
+                <a
+                  href="all-products.html"
+                  class="navbar-interactive1111-navlink2"
+                >
+                  <p class="navbar-interactive1111-text7">
+                    <span>Products</span>
+                  </p>
+                </a>
+                <a href="contact2.html" class="navbar-interactive1111-navlink3">
+                  <p class="navbar-interactive1111-text8">
+                    <span>Contact</span>
+                  </p>
+                </a>
+              </nav>
+            </div>
+            <div
+              data-thq="thq-burger-menu"
+              class="navbar-interactive1111-burger-menu"
+            >
+              <svg viewBox="0 0 1024 1024" class="navbar-interactive1111-icon">
+                <path
+                  d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"
+                ></path>
+              </svg>
+            </div>
+            <div
+              data-thq="thq-mobile-menu"
+              class="navbar-interactive1111-mobile-menu"
+            >
+              <div class="navbar-interactive1111-nav">
+                <div class="navbar-interactive1111-top">
+                  <div
+                    data-thq="thq-close-menu"
+                    class="navbar-interactive1111-close-menu"
+                  >
+                    <svg
+                      viewBox="0 0 1024 1024"
+                      class="navbar-interactive1111-icon2"
+                    >
+                      <path
+                        d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
+                      ></path>
+                    </svg>
+                  </div>
+                </div>
+                <nav class="navbar-interactive1111-links1">
+                  <a href="index.html" class="navbar-interactive1111-navlink4">
+                    <span>Home</span>
+                  </a>
+                  <a href="about.html" class="navbar-interactive1111-navlink5">
+                    <span>About</span>
+                  </a>
+                  <a
+                    href="all-products.html"
+                    class="navbar-interactive1111-navlink6"
+                  >
+                    <span>Products</span>
+                  </a>
+                  <a
+                    href="contact2.html"
+                    class="navbar-interactive1111-navlink7"
+                  >
+                    <span>Contact</span>
+                  </a>
+                </nav>
+              </div>
+            </div>
+          </header>
+        </div>
+        <div class="green-container1">
+          <div class="green-container2">
+            <img
+              alt="image"
+              src="public/222%204%20inch%20green-900w.png"
+              class="green-image"
+            />
+          </div>
+          <div class="component10-container component10-root-class-name39">
+            <p class="component10-text"><span>Udaya brush</span></p>
+            <p class="component10-text1"><span>222 Green</span></p>
+            <span class="component10-text2">
+              <span>
+                The 222 Green Wash Brush: A specialized tool for home painting,
+                blending precision with eco-friendliness. Its design promises
+                detailed finesse, making it ideal for delicate washes and
+                environmentally conscious applications, a perfect balance of
+                functionality and sustainability.
+              </span>
+            </span>
+            <div class="component10-accordion">
+              <div
+                data-role="accordion-container"
+                class="component10-element accordion"
+              >
+                <div class="component10-content">
+                  <h3 class="component10-header"><span>Color/ Green</span></h3>
+                </div>
+              </div>
+              <div
+                data-role="accordion-container"
+                class="component10-element1 accordion"
+              >
+                <div>
+                  <h3 class="component10-header1"><span>Size/ 2 inch</span></h3>
+                </div>
+              </div>
+              <div
+                data-role="accordion-container"
+                class="component10-element2 accordion"
+              >
+                <div>
+                  <h3 class="component10-header2">
+                    <span class="component10-text3">
+                      Packaging and MoQ - 50, 30, 20 pcs per box.
+                    </span>
+                    <br />
+                  </h3>
+                </div>
+              </div>
+              <div>
+                <div class="component10-container2">
+                  <script>
+                    /*
+                     Accordion - Code Embed
+                     */
+                     const accordionContainers = document.querySelectorAll('[data-role='accordion-container']'); // All accordion containers
+                     const accordionContents = document.querySelectorAll('[data-role='accordion-content']'); // All accordion content
+                     const accordionIconsClosed = document.querySelectorAll('[data-role='accordion-icon-closed']'); // All accordion closed icons
+                     const accordionIconsOpen = document.querySelectorAll('[data-role='accordion-icon-open']'); // All accordion open icons
+
+                     accordionContents.forEach((accordionContent) => {
+                         accordionContent.style.display = 'none'; //Hides all accordion contents
+                     });
+
+                     accordionIconsClosed.forEach((icon) => {
+                       icon.style.display = 'flex'
+                     })
+
+                     accordionIconsOpen.forEach((icon) => {
+                       icon.style.display = 'none'
+                     })
+
+                     accordionContainers.forEach((accordionContainer, index) => {
+                         accordionContainer.addEventListener('click', () => {
+                             if (accordionContents[index].style.display === 'flex') {
+                                 // If the accordion is already open, close it
+                                 accordionContents[index].style.display = 'none';
+                                 accordionIconsClosed[index].style.display = 'flex';
+                                 accordionIconsOpen[index].style.display = 'none'
+                             } else {
+                                 // If the accordion is closed, open it
+                                 accordionContents.forEach((accordionContent) => {
+                                     accordionContent.style.display = 'none'; //Hides all accordion contents
+                                 });
+
+                                 accordionIconsClosed.forEach((accordionIcon) => {
+                                     accordionIcon.style.display = 'flex'; // Resets all icon transforms to 0deg (default)
+                                 });
+
+                                 accordionIconsOpen.forEach((accordionIcon) => {
+                                   accordionIcon.style.display = 'none';
+                                 })
+
+                                 accordionContents[index].style.display = 'flex'; // Shows accordion content
+                                 accordionIconsClosed[index].style.display = 'none'; // Rotates accordion icon 180deg
+                                 accordionIconsOpen[index].style.display = 'flex';
+                             }
+                         });
+                     });
+                  </script>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="green-container3">
+          <p class="green-text">You might like&nbsp;</p>
+          <div class="green-speakers-container">
+            <a href="bullet.html">
+              <div class="speaker-card-speaker-card">
+                <div class="speaker-card-image-container">
+                  <img
+                    alt="image"
+                    src="public/bullet%204%20inch-300w.png"
+                    loading="lazy"
+                    class="speaker-card-image"
+                  />
+                </div>
+                <span class="speaker-card-last-name">
+                  <span>Udaya brush</span>
+                </span>
+                <span class="speaker-card-first-name"><span>Bullet</span></span>
+              </div>
+            </a>
+            <a href="b.html">
+              <div class="speaker-card-speaker-card">
+                <div class="speaker-card-image-container">
+                  <img
+                    alt="image"
+                    src="public/545%20b%202%20inch-300w.png"
+                    loading="lazy"
+                    class="speaker-card-image"
+                  />
+                </div>
+                <span class="speaker-card-last-name">
+                  <span>Udaya brush</span>
+                </span>
+                <span class="speaker-card-first-name"><span>545 b</span></span>
+              </div>
+            </a>
+            <a href="w40.html">
+              <div class="speaker-card-speaker-card">
+                <div class="speaker-card-image-container">
+                  <img
+                    alt="image"
+                    src="public/w40%202%20inch-300w.png"
+                    loading="lazy"
+                    class="speaker-card-image"
+                  />
+                </div>
+                <span class="speaker-card-last-name">
+                  <span>Udaya brush</span>
+                </span>
+                <span class="speaker-card-first-name"><span>W40</span></span>
+              </div>
+            </a>
+            <a href="wash-brush.html">
+              <div class="speaker-card-speaker-card">
+                <div class="speaker-card-image-container">
+                  <img
+                    alt="image"
+                    src="public/wash%20brush%202-300w.png"
+                    loading="lazy"
+                    class="speaker-card-image"
+                  />
+                </div>
+                <span class="speaker-card-last-name">
+                  <span>Udaya brush</span>
+                </span>
+                <span class="speaker-card-first-name">
+                  <span>Wash brush</span>
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+        <footer class="footer-footer">
+          <div class="footer-container">
+            <div class="footer-links-container">
+              <div class="footer-contact">
+                <p class="footer-text"><span>ADDRESS</span></p>
+                <span class="footer-text1">
+                  <span>Udaya brush company</span>
+                  <br />
+                  <span>No. 7 New Mandapapp road Kilapauk Chennai 600010.</span>
+                  <br />
+                </span>
+              </div>
+              <div class="footer-container1">
+                <p class="footer-text6"><span>CONTACT</span></p>
+                <div class="footer-contact1">
+                  <a href="index.html" class="footer-navlink">
+                    <span>support@udayabrush.com</span>
+                  </a>
+                  <a href="about.html" class="footer-navlink1">
+                    <span>+91 9884504533</span>
+                  </a>
+                </div>
+              </div>
+              <div class="footer-container2">
+                <p class="footer-text7"><span>COMPANY</span></p>
+                <div class="footer-contact2">
+                  <a href="index.html" class="footer-navlink2">
+                    <span>Home</span>
+                  </a>
+                  <a href="about.html" class="footer-navlink3">
+                    <span>About</span>
+                  </a>
+                  <a href="all-products.html" class="footer-navlink4">
+                    <span>Products</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-separator"></div>
+          <span class="footer-text8">
+            <span>© 2023 Udayabrush All Rights Reserved.</span>
+          </span>
+        </footer>
+      </div>
+    </div>
+    <script
+      defer=""
+      src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
+    ></script>
+  </body>
+</html>
